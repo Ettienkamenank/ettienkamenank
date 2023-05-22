@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ettienkamenank@gmail.com**
 
-- 📄 Know about my experiences [N/A](N/A)
+<!--- - 📄 Know about my experiences [N/A](N/A) --->
 
 - ⚡ Fun fact **I'❤️ Football**
 
