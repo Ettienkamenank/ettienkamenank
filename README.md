@@ -6,15 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ettienkamenank&label=Profile%20views&color=0e75b6&style=flat" alt="ettienkamenank" /> </p>
 
-- 🌱 I’m currently learning **Software Architect**
-
-- 💬 Ask me about **Spring boot, Flutter**
-
-- 📫 How to reach me **ettienkamenank@gmail.com**
-
+- 👀 I'm interested in backend & mobile development.
+- 🌱 I’m currently learning **NestJs, Software Architect**.
+- 💬 Ask me about **Spring boot, Flutter**.
+- 💞️ I would like to be able to collaborate on open source projects and also have opportunities to work remotely.
 <!--- - 📄 Know about my experiences [N/A](N/A) --->
-
-- ⚡ Fun fact **I'❤️ Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
